@@ -1,11 +1,10 @@
 name: Go
 on: [push, pull_request]
-runs-on: [self-hosted]
 jobs:
 
   build:
     name: Build
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
 
     - name: Set up Go 1.13
