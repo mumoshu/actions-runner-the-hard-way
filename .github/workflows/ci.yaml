@@ -1,5 +1,6 @@
 name: Go
 on: [push, pull_request]
+runs-on: self-hosted
 jobs:
 
   build:
