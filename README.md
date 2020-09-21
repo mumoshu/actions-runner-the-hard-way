@@ -11,7 +11,7 @@ Browse to `https://github.com/USER/REPO/settings/actions`, then click `Add Runne
 Configure the runner by running the below command shown in after you've clicked the button:
 
 ```
-$ ./config.sh --url https://github.com/mumoshu/actions-runner-the-hard-way --token THENA_AUTOMATICALLY_GENERATED_TOKEN
+$ ./config.sh --url https://github.com/mumoshu/actions-runner-the-hard-way --token THE_AUTOMATICALLY_GENERATED_TOKEN
 ```
 
 Finally, run any of:
